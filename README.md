@@ -20,7 +20,10 @@ I work on small, practical tools — mostly desktop stuff and web utilities. Mai
 - PC Tools 
 
 professional forker xD
+canvas discord bot comin soon. 
 
 ---
 
 feel free to check out all my projects on my profile!
+
+add me on [discord](https://discord.com/users/821763511281123444)! 
