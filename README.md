@@ -17,10 +17,11 @@ I work on small, practical tools — mostly desktop stuff and web utilities. Mai
 
 - Privacy tools 
 - Media-related apps
-- PC Tools 
+- PC Tools
+- canvas discord bot comin soon. 
 
 professional forker xD
-canvas discord bot comin soon. 
+
 
 ---
 
