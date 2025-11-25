@@ -1,5 +1,5 @@
 ## Hi there, i'm jscreator
-> 🌎 **Website:** https://jscreator.dev
+> 🌎 **Website:** https://www.jscreator.dev
 
 I work on small, practical tools — mostly desktop stuff and web utilities. Mainly just side quests.
 
