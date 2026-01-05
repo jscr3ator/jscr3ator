@@ -1,8 +1,7 @@
 ## Hi there, i'm jscreator
 > 🌎 **Website:** https://www.jscreator.dev
 
-I work on small, practical tools — mostly desktop stuff and web utilities. Mainly just side quests.
-
+i do random stuff
 ---
 
 ## 🧰 Tools I use
@@ -18,7 +17,7 @@ I work on small, practical tools — mostly desktop stuff and web utilities. Mai
 - Privacy tools 
 - Media-related apps
 - PC Tools
-- canvas discord bot comin soon. 
+- canvas discord bot comin soon (probably)
 
 professional forker xD
 
