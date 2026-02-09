@@ -4,25 +4,7 @@
 i do random stuff
 ---
 
-## 🧰 Tools I use
-
-- **Python** – scripting, desktop tools, quick builds
-- **TypeScript** – for web apps
-- **HTML** – simple front-end work 
-
----
-
-## 🗂️ What I usually work on
-
-- Privacy tools 
-- Media-related apps
-- PC Tools
-- canvas discord bot comin soon (probably)
-
-professional forker xD
-
-
----
+just a random ;D
 
 feel free to check out all my projects on my profile!
 
