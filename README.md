@@ -1,6 +1,8 @@
 ## Hi there, i'm jscreator
 > 🌎 **Website:** https://www.jscreator.dev
 
+my website is down, reached my vercel limits lmao
+
 i do random stuff
 ---
 
